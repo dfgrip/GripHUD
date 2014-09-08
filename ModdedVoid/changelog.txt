@@ -1,0 +1,3 @@
++ Improved scoreboard so that names don't get cut off
++ Improved spy disguise to fit with the sansation font of the HUD
++ Improved spectating in tournament mode so that most names don't get cut off
